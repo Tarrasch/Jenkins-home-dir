@@ -1,0 +1,26 @@
+identity.key
+secret.key
+.owner
+plugins
+Workspace clean-up.log
+*.swp
+*.swp
+*.swo
+*.swn
+*.hi
+*.o
+*~
+*.bak
+*.swp
+*.o
+*.aux
+*.log
+*.out
+report/.nfs000000*
+.DS_Store
+*#*#
+*.class
+.goutput*
+
+
+
