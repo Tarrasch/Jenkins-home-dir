@@ -2,7 +2,7 @@
 <hudson.tasks.Mailer_-DescriptorImpl>
   <helpRedirect/>
   <hudsonUrl>http://46.239.119.46:8080/</hudsonUrl>
-  <adminAddress>address not configured yet &lt;nobody@nowhere&gt;</adminAddress>
+  <adminAddress>miffoljud@gmail.com</adminAddress>
   <useSsl>false</useSsl>
   <charset>UTF-8</charset>
 </hudson.tasks.Mailer_-DescriptorImpl>
