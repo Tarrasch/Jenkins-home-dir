@@ -22,9 +22,12 @@ report/.nfs000000*
 *.class
 .goutput*
 .bash_history
-hamlet
-persistent
-wai
-yesod
+/hamlet
+/persistent
+/wai
+/yesod
 .ghc
 .cabal
+build.xml
+changelog.xml
+log
