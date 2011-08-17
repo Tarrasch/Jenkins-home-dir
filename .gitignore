@@ -26,4 +26,5 @@ hamlet
 persistent
 wai
 yesod
-
+.ghc
+.cabal
