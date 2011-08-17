@@ -21,6 +21,9 @@ report/.nfs000000*
 *#*#
 *.class
 .goutput*
-
-
+.bash_history
+hamlet
+persistent
+wai
+yesod
 
