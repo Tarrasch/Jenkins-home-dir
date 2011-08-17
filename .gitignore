@@ -31,3 +31,4 @@ report/.nfs000000*
 build.xml
 changelog.xml
 log
+.*
