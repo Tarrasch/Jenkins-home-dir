@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<user>
+  <fullName>Admin</fullName>
+  <properties>
+    <jenkins.security.ApiTokenProperty>
+      <apiToken>Rn+4pOvAv1fSXQYA5/FyjxfefVtDBi9iV4o06c+GzsEcOXKJsBMQwyQw+acDV4gg</apiToken>
+    </jenkins.security.ApiTokenProperty>
+    <hudson.model.MyViewsProperty>
+      <views>
+        <hudson.model.AllView>
+          <owner class="hudson.model.MyViewsProperty" reference="../../.."/>
+          <name>All</name>
+          <filterExecutors>false</filterExecutors>
+          <filterQueue>false</filterQueue>
+          <properties class="hudson.model.View$PropertyList"/>
+        </hudson.model.AllView>
+      </views>
+    </hudson.model.MyViewsProperty>
+    <hudson.security.HudsonPrivateSecurityRealm_-Details>
+      <passwordHash>aJqyrN:8fae594bddc2c579958e46e7bd9bb6a167589dc4b531baa339ab14e015e0039f</passwordHash>
+    </hudson.security.HudsonPrivateSecurityRealm_-Details>
+    <hudson.tasks.Mailer_-UserProperty>
+      <emailAddress>greg@gregweber.info</emailAddress>
+    </hudson.tasks.Mailer_-UserProperty>
+  </properties>
+</user>
