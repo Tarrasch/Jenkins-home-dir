@@ -53,11 +53,6 @@
     </hudson.tasks.Shell>
   </builders>
   <publishers>
-    <hudson.tasks.Mailer>
-      <recipients>greg@gregweber.info blake.rain@massivetactical.com michael@snoyman.com miffoljud@gmail.com</recipients>
-      <dontNotifyEveryUnstableBuild>false</dontNotifyEveryUnstableBuild>
-      <sendToIndividuals>false</sendToIndividuals>
-    </hudson.tasks.Mailer>
     <hudson.tasks.BuildTrigger>
       <childProjects>yesod</childProjects>
       <threshold>
@@ -66,6 +61,11 @@
         <color>BLUE</color>
       </threshold>
     </hudson.tasks.BuildTrigger>
+    <hudson.tasks.Mailer>
+      <recipients>greg@gregweber.info blake.rain@massivetactical.com michael@snoyman.com miffoljud@gmail.com stegeman@gmail.com</recipients>
+      <dontNotifyEveryUnstableBuild>false</dontNotifyEveryUnstableBuild>
+      <sendToIndividuals>false</sendToIndividuals>
+    </hudson.tasks.Mailer>
   </publishers>
   <buildWrappers/>
 </project>

@@ -54,7 +54,7 @@
   </builders>
   <publishers>
     <hudson.tasks.Mailer>
-      <recipients>greg@gregweber.info blake.rain@massivetactical.com michael@snoyman.com pbrisbin@gmail.com miffoljud@gmail.com </recipients>
+      <recipients>greg@gregweber.info blake.rain@massivetactical.com michael@snoyman.com pbrisbin@gmail.com miffoljud@gmail.com stegeman@gmail.com</recipients>
       <dontNotifyEveryUnstableBuild>false</dontNotifyEveryUnstableBuild>
       <sendToIndividuals>false</sendToIndividuals>
     </hudson.tasks.Mailer>
