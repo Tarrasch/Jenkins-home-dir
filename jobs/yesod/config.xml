@@ -49,7 +49,7 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.Shell>
-      <command>cd /var/lib/jenkins/$JOB_NAME &amp;&amp; git pull origin master &amp;&amp; ./install-all.sh &amp;&amp; cd yesod &amp;&amp; ./test/run.sh</command>
+      <command>cabal update &amp;&amp; cd /var/lib/jenkins/$JOB_NAME &amp;&amp; git pull origin master &amp;&amp; ./install-all.sh &amp;&amp; cd yesod &amp;&amp; ./test/run.sh</command>
     </hudson.tasks.Shell>
   </builders>
   <publishers>
