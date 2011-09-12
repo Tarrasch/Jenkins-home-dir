@@ -49,12 +49,20 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.Shell>
-      <command>cabal update &amp;&amp; cd /var/lib/jenkins/$JOB_NAME &amp;&amp; git pull origin master &amp;&amp; ./install-all.sh --clean &amp;&amp; cd yesod &amp;&amp; ./test/run.sh</command>
+      <command>cabal update &amp;&amp; cd /var/lib/jenkins/$JOB_NAME &amp;&amp; git pull origin master &amp;&amp; git submodule update --init &amp;&amp; ./scripts/install --clean</command>
     </hudson.tasks.Shell>
   </builders>
   <publishers>
+    <hudson.tasks.BuildTrigger>
+      <childProjects>yesod</childProjects>
+      <threshold>
+        <name>SUCCESS</name>
+        <ordinal>0</ordinal>
+        <color>BLUE</color>
+      </threshold>
+    </hudson.tasks.BuildTrigger>
     <hudson.tasks.Mailer>
-      <recipients>greg@gregweber.info blake.rain@massivetactical.com michael@snoyman.com pbrisbin@gmail.com miffoljud@gmail.com stegeman@gmail.com</recipients>
+      <recipients>greg@gregweber.info blake.rain@massivetactical.com michael@snoyman.com miffoljud@gmail.com stegeman@gmail.com</recipients>
       <dontNotifyEveryUnstableBuild>false</dontNotifyEveryUnstableBuild>
       <sendToIndividuals>false</sendToIndividuals>
     </hudson.tasks.Mailer>
