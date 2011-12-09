@@ -49,7 +49,7 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.Shell>
-      <command>cabal update &amp;&amp; cd /var/lib/jenkins/$JOB_NAME &amp;&amp; git pull origin master &amp;&amp; git submodule update --init &amp;&amp; ./scripts/install --clean</command>
+        <command>. ~/.bashrc &amp;&amp; cabal update &amp;&amp; cd /var/lib/jenkins/$JOB_NAME &amp;&amp; git pull origin master &amp;&amp; git submodule update --init &amp;&amp; ./scripts/install --clean</command>
     </hudson.tasks.Shell>
   </builders>
   <publishers>
