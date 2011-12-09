@@ -39,3 +39,7 @@ Now make sure `cabal --version` responds what you expected.
 ### Restarting the jenkins service
 
     sudo /etc/init.d/jenkins restart
+
+### List of good to install libraries
+
+    sudo apt-get install libfcgi-dev
