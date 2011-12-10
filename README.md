@@ -24,7 +24,10 @@ most other files by `jenkins` and `root` has created the files.
     sudo chown --recursive $USER .git/
     sudo chown --recursive  jenkins jobs/ plugins/ updates/ userContent/ users/ workspace/
 
+### Plugins
 
+The only needed plugin is the git plugin. You can install it directly
+from the local jenkins web interface. Just go to "Configure -> Plugins".
 
 ### Commands to run as jenkins
 
