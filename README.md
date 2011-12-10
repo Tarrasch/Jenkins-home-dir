@@ -3,7 +3,12 @@ Jenkins home directory for yesod projects.
 I add setup documentation here, in case I or anybody else wants
 to setup this server on their own. Good luck readers of the future!
 
-## Good to run commands
+## Installing
+
+Here is how I did it when moving the installation from two machines
+by using this repository
+
+### Cloning
 
 I started by cloning
 
