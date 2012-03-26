@@ -23,6 +23,7 @@ report/.nfs000000*
 .goutput*
 .bash_history
 /hamlet
+/shakespeare
 /persistent
 /wai
 /yesod

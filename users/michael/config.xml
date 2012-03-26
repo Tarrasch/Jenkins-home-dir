@@ -16,8 +16,11 @@
         </hudson.model.AllView>
       </views>
     </hudson.model.MyViewsProperty>
+    <hudson.search.UserSearchProperty>
+      <insensitiveSearch>false</insensitiveSearch>
+    </hudson.search.UserSearchProperty>
     <hudson.tasks.Mailer_-UserProperty>
-      <emailAddress>michael@snoyman.com</emailAddress>
+      <emailAddress>michael@michaelxavier.net</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
   </properties>
 </user>
