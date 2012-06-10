@@ -3,7 +3,7 @@
   <fullName>simon</fullName>
   <properties>
     <jenkins.security.ApiTokenProperty>
-      <apiToken>ZBgvYokh+eBHyVOj4Mb2xNiHlcMtmTE7sbKiJPqaSwocOXKJsBMQwyQw+acDV4gg</apiToken>
+      <apiToken>0iUM0yNcWw78LgDC9cG+jqMZTmrHQUBGnILLEn/tXXUKUNtgpURgIUVJlYLgvCExzf3+BSX44yBPRWa9y//kwCaJFTzZPUZpLKMgZRG4dDA=</apiToken>
     </jenkins.security.ApiTokenProperty>
     <hudson.model.MyViewsProperty>
       <views>
@@ -16,6 +16,9 @@
         </hudson.model.AllView>
       </views>
     </hudson.model.MyViewsProperty>
+    <hudson.search.UserSearchProperty>
+      <insensitiveSearch>false</insensitiveSearch>
+    </hudson.search.UserSearchProperty>
     <hudson.tasks.Mailer_-UserProperty>
       <emailAddress>simon@joyful.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>

@@ -16,6 +16,9 @@
         </hudson.model.AllView>
       </views>
     </hudson.model.MyViewsProperty>
+    <hudson.search.UserSearchProperty>
+      <insensitiveSearch>false</insensitiveSearch>
+    </hudson.search.UserSearchProperty>
     <hudson.tasks.Mailer_-UserProperty>
       <emailAddress>aslatter@gmail.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>

@@ -20,7 +20,7 @@
       <insensitiveSearch>false</insensitiveSearch>
     </hudson.search.UserSearchProperty>
     <hudson.tasks.Mailer_-UserProperty>
-      <emailAddress>m@jaspervdj.be</emailAddress>
+      <emailAddress>m@skahack.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
   </properties>
 </user>
