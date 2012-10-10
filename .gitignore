@@ -27,6 +27,7 @@ report/.nfs000000*
 /persistent
 /wai
 /yesod
+/DtekPortalen
 .ghc
 .cabal
 build.xml

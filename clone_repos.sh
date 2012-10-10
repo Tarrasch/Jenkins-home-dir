@@ -5,4 +5,5 @@
       git clone http://github.com/yesodweb/$repo
     done
 
+    git clone git://github.com/dtekcth/DtekPortalen.git
 
