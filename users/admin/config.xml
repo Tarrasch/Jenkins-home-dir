@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <user>
   <fullName>Admin</fullName>
+  <description></description>
   <properties>
-    <jenkins.security.ApiTokenProperty>
-      <apiToken>Rn+4pOvAv1fSXQYA5/FyjxfefVtDBi9iV4o06c+GzsEcOXKJsBMQwyQw+acDV4gg</apiToken>
-    </jenkins.security.ApiTokenProperty>
+    <hudson.tasks.Mailer_-UserProperty>
+      <emailAddress>webredax@dtek.se</emailAddress>
+    </hudson.tasks.Mailer_-UserProperty>
     <hudson.model.MyViewsProperty>
+      <primaryViewName></primaryViewName>
       <views>
         <hudson.model.AllView>
           <owner class="hudson.model.MyViewsProperty" reference="../../.."/>
@@ -17,10 +19,10 @@
       </views>
     </hudson.model.MyViewsProperty>
     <hudson.security.HudsonPrivateSecurityRealm_-Details>
-      <passwordHash>aJqyrN:8fae594bddc2c579958e46e7bd9bb6a167589dc4b531baa339ab14e015e0039f</passwordHash>
+      <passwordHash>FwQXGg:aa5c4b08356018e90ff9860f1c1c0fe654b006e863851d9031b38c0c2c1a8943</passwordHash>
     </hudson.security.HudsonPrivateSecurityRealm_-Details>
-    <hudson.tasks.Mailer_-UserProperty>
-      <emailAddress>greg@gregweber.info</emailAddress>
-    </hudson.tasks.Mailer_-UserProperty>
+    <org.jenkinsci.main.modules.cli.auth.ssh.UserPropertyImpl>
+      <authorizedKeys></authorizedKeys>
+    </org.jenkinsci.main.modules.cli.auth.ssh.UserPropertyImpl>
   </properties>
 </user>

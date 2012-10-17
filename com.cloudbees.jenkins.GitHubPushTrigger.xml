@@ -1,11 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<com.cloudbees.jenkins.GitHubPushTrigger_-DescriptorImpl>
+<com.cloudbees.jenkins.GitHubPushTrigger_-DescriptorImpl plugin="github@1.4">
   <helpRedirect/>
   <manageHook>false</manageHook>
-  <credentials>
-    <com.cloudbees.jenkins.Credential>
-      <username></username>
-      <password>HDlyibATEMMkMPmnA1eIIA==</password>
-    </com.cloudbees.jenkins.Credential>
-  </credentials>
+  <credentials/>
 </com.cloudbees.jenkins.GitHubPushTrigger_-DescriptorImpl>
