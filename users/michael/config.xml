@@ -2,9 +2,6 @@
 <user>
   <fullName>michael</fullName>
   <properties>
-    <jenkins.security.ApiTokenProperty>
-      <apiToken>RWY2OnPLi9QYeMLkH5adBeLWO0tQ8lI4D/oPZoBeGb5aZdvtb2I5LfLkvj/qnfVdzf3+BSX44yBPRWa9y//kwCaJFTzZPUZpLKMgZRG4dDA=</apiToken>
-    </jenkins.security.ApiTokenProperty>
     <hudson.model.MyViewsProperty>
       <views>
         <hudson.model.AllView>
@@ -16,9 +13,6 @@
         </hudson.model.AllView>
       </views>
     </hudson.model.MyViewsProperty>
-    <hudson.search.UserSearchProperty>
-      <insensitiveSearch>false</insensitiveSearch>
-    </hudson.search.UserSearchProperty>
     <hudson.tasks.Mailer_-UserProperty>
       <emailAddress>michael@snoyman.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>

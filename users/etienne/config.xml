@@ -2,9 +2,6 @@
 <user>
   <fullName>etienne</fullName>
   <properties>
-    <jenkins.security.ApiTokenProperty>
-      <apiToken>NREIppnX6itwhxEkFpJ+KhJdLURAT9hjAJspbrBpA1EcOXKJsBMQwyQw+acDV4gg</apiToken>
-    </jenkins.security.ApiTokenProperty>
     <hudson.model.MyViewsProperty>
       <views>
         <hudson.model.AllView>

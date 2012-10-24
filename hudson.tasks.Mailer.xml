@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <hudson.tasks.Mailer_-DescriptorImpl>
-  <helpRedirect/>
   <hudsonUrl>http://dtek.se:8080/</hudsonUrl>
   <adminAddress>miffoljud@gmail.com</adminAddress>
   <useSsl>false</useSsl>

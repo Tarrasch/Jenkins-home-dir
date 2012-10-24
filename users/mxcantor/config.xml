@@ -2,9 +2,6 @@
 <user>
   <fullName>mxcantor</fullName>
   <properties>
-    <jenkins.security.ApiTokenProperty>
-      <apiToken>k17qmyklsBf9bfOG8MlSXzlm3Bflhxr79Cbd4liKgO58fcHslK2jAgyq8JcN6OC6zf3+BSX44yBPRWa9y//kwCaJFTzZPUZpLKMgZRG4dDA=</apiToken>
-    </jenkins.security.ApiTokenProperty>
     <hudson.model.MyViewsProperty>
       <views>
         <hudson.model.AllView>
@@ -16,9 +13,6 @@
         </hudson.model.AllView>
       </views>
     </hudson.model.MyViewsProperty>
-    <hudson.search.UserSearchProperty>
-      <insensitiveSearch>false</insensitiveSearch>
-    </hudson.search.UserSearchProperty>
     <hudson.tasks.Mailer_-UserProperty>
       <emailAddress>mxcantor@gmail.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>

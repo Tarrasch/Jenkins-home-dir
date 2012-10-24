@@ -2,9 +2,6 @@
 <user>
   <fullName>pa.aronsson</fullName>
   <properties>
-    <jenkins.security.ApiTokenProperty>
-      <apiToken>jZact5t+5or+XXPodP/hU11RQPrnjsP5uzcUDJAnaVomiRU82T1GaSyjIGURuHQw</apiToken>
-    </jenkins.security.ApiTokenProperty>
     <hudson.model.MyViewsProperty>
       <views>
         <hudson.model.AllView>
@@ -16,9 +13,6 @@
         </hudson.model.AllView>
       </views>
     </hudson.model.MyViewsProperty>
-    <hudson.search.UserSearchProperty>
-      <insensitiveSearch>false</insensitiveSearch>
-    </hudson.search.UserSearchProperty>
     <hudson.tasks.Mailer_-UserProperty>
       <emailAddress>pa.aronsson@gmail.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>

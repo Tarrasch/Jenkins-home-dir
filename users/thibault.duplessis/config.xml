@@ -2,9 +2,6 @@
 <user>
   <fullName>thibault.duplessis</fullName>
   <properties>
-    <jenkins.security.ApiTokenProperty>
-      <apiToken>BLt9rvsP3GhgjBjIy8gwS7y/JB1DZRakWrD7UXifOggcOXKJsBMQwyQw+acDV4gg</apiToken>
-    </jenkins.security.ApiTokenProperty>
     <hudson.model.MyViewsProperty>
       <views>
         <hudson.model.AllView>

@@ -2,9 +2,6 @@
 <user>
   <fullName>ppk</fullName>
   <properties>
-    <jenkins.security.ApiTokenProperty>
-      <apiToken>t5+xAx7MwOpww1RbTix071NZvYgNV2o5S4Pvl03r9mgmiRU82T1GaSyjIGURuHQw</apiToken>
-    </jenkins.security.ApiTokenProperty>
     <hudson.model.MyViewsProperty>
       <views>
         <hudson.model.AllView>
@@ -16,9 +13,6 @@
         </hudson.model.AllView>
       </views>
     </hudson.model.MyViewsProperty>
-    <hudson.search.UserSearchProperty>
-      <insensitiveSearch>false</insensitiveSearch>
-    </hudson.search.UserSearchProperty>
     <hudson.tasks.Mailer_-UserProperty>
       <emailAddress>ppk@cse.iitk.ac.in</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>

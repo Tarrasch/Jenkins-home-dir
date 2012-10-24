@@ -2,9 +2,6 @@
 <user>
   <fullName>ml</fullName>
   <properties>
-    <jenkins.security.ApiTokenProperty>
-      <apiToken>xhk6+E/D7GTtANNPz1Xdt/L6ljLDsotZGOBawlvhM8EmiRU82T1GaSyjIGURuHQw</apiToken>
-    </jenkins.security.ApiTokenProperty>
     <hudson.model.MyViewsProperty>
       <views>
         <hudson.model.AllView>
@@ -16,9 +13,6 @@
         </hudson.model.AllView>
       </views>
     </hudson.model.MyViewsProperty>
-    <hudson.search.UserSearchProperty>
-      <insensitiveSearch>false</insensitiveSearch>
-    </hudson.search.UserSearchProperty>
     <hudson.tasks.Mailer_-UserProperty>
       <emailAddress>ml@gondwanaland.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>

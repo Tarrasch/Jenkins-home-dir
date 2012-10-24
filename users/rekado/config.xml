@@ -2,9 +2,6 @@
 <user>
   <fullName>rekado</fullName>
   <properties>
-    <jenkins.security.ApiTokenProperty>
-      <apiToken>cEl16TpaljAPBw12yLtXrQRDeqPIesmdNJp1ZM+IYAUmiRU82T1GaSyjIGURuHQw</apiToken>
-    </jenkins.security.ApiTokenProperty>
     <hudson.model.MyViewsProperty>
       <views>
         <hudson.model.AllView>
@@ -16,9 +13,6 @@
         </hudson.model.AllView>
       </views>
     </hudson.model.MyViewsProperty>
-    <hudson.search.UserSearchProperty>
-      <insensitiveSearch>false</insensitiveSearch>
-    </hudson.search.UserSearchProperty>
     <hudson.tasks.Mailer_-UserProperty>
       <emailAddress>rekado@elephly.net</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>

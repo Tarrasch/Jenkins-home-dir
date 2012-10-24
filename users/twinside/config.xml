@@ -2,9 +2,6 @@
 <user>
   <fullName>twinside</fullName>
   <properties>
-    <jenkins.security.ApiTokenProperty>
-      <apiToken>821WM3yqVrz45cmzW7yYLtdaTMYjCm9WngkoTJMwspsmiRU82T1GaSyjIGURuHQw</apiToken>
-    </jenkins.security.ApiTokenProperty>
     <hudson.model.MyViewsProperty>
       <views>
         <hudson.model.AllView>
@@ -16,9 +13,6 @@
         </hudson.model.AllView>
       </views>
     </hudson.model.MyViewsProperty>
-    <hudson.search.UserSearchProperty>
-      <insensitiveSearch>false</insensitiveSearch>
-    </hudson.search.UserSearchProperty>
     <hudson.tasks.Mailer_-UserProperty>
       <emailAddress>twinside@gmail.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>

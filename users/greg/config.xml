@@ -2,9 +2,6 @@
 <user>
   <fullName>greg</fullName>
   <properties>
-    <jenkins.security.ApiTokenProperty>
-      <apiToken>7oV8UvsBJHws44GU/BWe4dERw9XnwYNapfzgU/rmXnVU5gbrSP5fhJq7/ss7FzTlzf3+BSX44yBPRWa9y//kwCaJFTzZPUZpLKMgZRG4dDA=</apiToken>
-    </jenkins.security.ApiTokenProperty>
     <hudson.model.MyViewsProperty>
       <views>
         <hudson.model.AllView>
@@ -16,9 +13,6 @@
         </hudson.model.AllView>
       </views>
     </hudson.model.MyViewsProperty>
-    <hudson.search.UserSearchProperty>
-      <insensitiveSearch>false</insensitiveSearch>
-    </hudson.search.UserSearchProperty>
     <hudson.tasks.Mailer_-UserProperty>
       <emailAddress>greg@gregweber.info</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
